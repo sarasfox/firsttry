@@ -1,4 +1,0 @@
-firsttry
-========
-
-learning elixir
